@@ -1,4 +1,4 @@
-## Experimental version, refer to wja123/arthritishack for original
+*Experimental version, refer to wja123/arthritishack for original
 
 # Joint Space
 An app that improves communication between parents and children with Juvenile Idiopathic Arthritis ("JIA"), and provides a platform to help children overcome physical and psychological challenges associated with JIA.
